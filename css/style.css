@@ -36,3 +36,8 @@ h1{
 .immagini-articolo{
     margin-top: 10px;
 }
+
+ul{
+    list-style-position: inside;
+    padding-left: 0;
+}
